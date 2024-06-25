@@ -24,11 +24,3 @@ This project is a puzzle game where players solve puzzles by making specific ges
 
 - Node.js and npm installed on your machine.
 - A webcam connected to your computer.
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/gesture-puzzle-game.git
-   cd gesture-puzzle-game
